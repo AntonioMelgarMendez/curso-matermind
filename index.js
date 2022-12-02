@@ -38,4 +38,12 @@ const getBlogContent = async () => {
   }
 }
 
-getBlogContent();
+getBlogContent(); 
+
+const loadAdds = () =>{
+  console.log("Adds loaded");
+
+}
+
+
+//cambio 1
