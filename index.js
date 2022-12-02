@@ -47,3 +47,15 @@ const loadAdds = () =>{
 
 
 //cambio 1
+
+//xapaot
+
+//loquero
+
+//zapaterod
+
+
+//reloj
+
+
+//tenista
